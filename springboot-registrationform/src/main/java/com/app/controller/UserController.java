@@ -16,6 +16,7 @@ import com.app.service.UserService;
 
 @Controller
 public class UserController {
+	// this is user controller 
 	@Autowired
 	public UserService service;
 	
@@ -89,3 +90,4 @@ public class UserController {
 	
 	
 }
+
